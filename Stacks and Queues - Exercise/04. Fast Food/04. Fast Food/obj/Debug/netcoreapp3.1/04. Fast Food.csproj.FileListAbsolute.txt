@@ -1,0 +1,14 @@
+C:\Users\aench\OneDrive\Документи\GitHub\SoftUni-Advanced\Stacks and Queues - Exercise\04. Fast Food\04. Fast Food\bin\Debug\netcoreapp3.1\04. Fast Food.exe
+C:\Users\aench\OneDrive\Документи\GitHub\SoftUni-Advanced\Stacks and Queues - Exercise\04. Fast Food\04. Fast Food\bin\Debug\netcoreapp3.1\04. Fast Food.deps.json
+C:\Users\aench\OneDrive\Документи\GitHub\SoftUni-Advanced\Stacks and Queues - Exercise\04. Fast Food\04. Fast Food\bin\Debug\netcoreapp3.1\04. Fast Food.runtimeconfig.json
+C:\Users\aench\OneDrive\Документи\GitHub\SoftUni-Advanced\Stacks and Queues - Exercise\04. Fast Food\04. Fast Food\bin\Debug\netcoreapp3.1\04. Fast Food.runtimeconfig.dev.json
+C:\Users\aench\OneDrive\Документи\GitHub\SoftUni-Advanced\Stacks and Queues - Exercise\04. Fast Food\04. Fast Food\bin\Debug\netcoreapp3.1\04. Fast Food.dll
+C:\Users\aench\OneDrive\Документи\GitHub\SoftUni-Advanced\Stacks and Queues - Exercise\04. Fast Food\04. Fast Food\bin\Debug\netcoreapp3.1\04. Fast Food.pdb
+C:\Users\aench\OneDrive\Документи\GitHub\SoftUni-Advanced\Stacks and Queues - Exercise\04. Fast Food\04. Fast Food\obj\Debug\netcoreapp3.1\04. Fast Food.csproj.AssemblyReference.cache
+C:\Users\aench\OneDrive\Документи\GitHub\SoftUni-Advanced\Stacks and Queues - Exercise\04. Fast Food\04. Fast Food\obj\Debug\netcoreapp3.1\04. Fast Food.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aench\OneDrive\Документи\GitHub\SoftUni-Advanced\Stacks and Queues - Exercise\04. Fast Food\04. Fast Food\obj\Debug\netcoreapp3.1\04. Fast Food.AssemblyInfoInputs.cache
+C:\Users\aench\OneDrive\Документи\GitHub\SoftUni-Advanced\Stacks and Queues - Exercise\04. Fast Food\04. Fast Food\obj\Debug\netcoreapp3.1\04. Fast Food.AssemblyInfo.cs
+C:\Users\aench\OneDrive\Документи\GitHub\SoftUni-Advanced\Stacks and Queues - Exercise\04. Fast Food\04. Fast Food\obj\Debug\netcoreapp3.1\04. Fast Food.csproj.CoreCompileInputs.cache
+C:\Users\aench\OneDrive\Документи\GitHub\SoftUni-Advanced\Stacks and Queues - Exercise\04. Fast Food\04. Fast Food\obj\Debug\netcoreapp3.1\04. Fast Food.dll
+C:\Users\aench\OneDrive\Документи\GitHub\SoftUni-Advanced\Stacks and Queues - Exercise\04. Fast Food\04. Fast Food\obj\Debug\netcoreapp3.1\04. Fast Food.pdb
+C:\Users\aench\OneDrive\Документи\GitHub\SoftUni-Advanced\Stacks and Queues - Exercise\04. Fast Food\04. Fast Food\obj\Debug\netcoreapp3.1\04. Fast Food.genruntimeconfig.cache
