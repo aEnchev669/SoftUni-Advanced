@@ -1,0 +1,14 @@
+C:\Users\aench\OneDrive\Документи\GitHub\SoftUni-Advanced\Multidimensional Arrays\Lab\01. Sum Matrix Elements\01. Sum Matrix Elements\bin\Debug\netcoreapp3.1\01. Sum Matrix Elements.exe
+C:\Users\aench\OneDrive\Документи\GitHub\SoftUni-Advanced\Multidimensional Arrays\Lab\01. Sum Matrix Elements\01. Sum Matrix Elements\bin\Debug\netcoreapp3.1\01. Sum Matrix Elements.deps.json
+C:\Users\aench\OneDrive\Документи\GitHub\SoftUni-Advanced\Multidimensional Arrays\Lab\01. Sum Matrix Elements\01. Sum Matrix Elements\bin\Debug\netcoreapp3.1\01. Sum Matrix Elements.runtimeconfig.json
+C:\Users\aench\OneDrive\Документи\GitHub\SoftUni-Advanced\Multidimensional Arrays\Lab\01. Sum Matrix Elements\01. Sum Matrix Elements\bin\Debug\netcoreapp3.1\01. Sum Matrix Elements.runtimeconfig.dev.json
+C:\Users\aench\OneDrive\Документи\GitHub\SoftUni-Advanced\Multidimensional Arrays\Lab\01. Sum Matrix Elements\01. Sum Matrix Elements\bin\Debug\netcoreapp3.1\01. Sum Matrix Elements.dll
+C:\Users\aench\OneDrive\Документи\GitHub\SoftUni-Advanced\Multidimensional Arrays\Lab\01. Sum Matrix Elements\01. Sum Matrix Elements\bin\Debug\netcoreapp3.1\01. Sum Matrix Elements.pdb
+C:\Users\aench\OneDrive\Документи\GitHub\SoftUni-Advanced\Multidimensional Arrays\Lab\01. Sum Matrix Elements\01. Sum Matrix Elements\obj\Debug\netcoreapp3.1\01. Sum Matrix Elements.csproj.AssemblyReference.cache
+C:\Users\aench\OneDrive\Документи\GitHub\SoftUni-Advanced\Multidimensional Arrays\Lab\01. Sum Matrix Elements\01. Sum Matrix Elements\obj\Debug\netcoreapp3.1\01. Sum Matrix Elements.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aench\OneDrive\Документи\GitHub\SoftUni-Advanced\Multidimensional Arrays\Lab\01. Sum Matrix Elements\01. Sum Matrix Elements\obj\Debug\netcoreapp3.1\01. Sum Matrix Elements.AssemblyInfoInputs.cache
+C:\Users\aench\OneDrive\Документи\GitHub\SoftUni-Advanced\Multidimensional Arrays\Lab\01. Sum Matrix Elements\01. Sum Matrix Elements\obj\Debug\netcoreapp3.1\01. Sum Matrix Elements.AssemblyInfo.cs
+C:\Users\aench\OneDrive\Документи\GitHub\SoftUni-Advanced\Multidimensional Arrays\Lab\01. Sum Matrix Elements\01. Sum Matrix Elements\obj\Debug\netcoreapp3.1\01. Sum Matrix Elements.csproj.CoreCompileInputs.cache
+C:\Users\aench\OneDrive\Документи\GitHub\SoftUni-Advanced\Multidimensional Arrays\Lab\01. Sum Matrix Elements\01. Sum Matrix Elements\obj\Debug\netcoreapp3.1\01. Sum Matrix Elements.dll
+C:\Users\aench\OneDrive\Документи\GitHub\SoftUni-Advanced\Multidimensional Arrays\Lab\01. Sum Matrix Elements\01. Sum Matrix Elements\obj\Debug\netcoreapp3.1\01. Sum Matrix Elements.pdb
+C:\Users\aench\OneDrive\Документи\GitHub\SoftUni-Advanced\Multidimensional Arrays\Lab\01. Sum Matrix Elements\01. Sum Matrix Elements\obj\Debug\netcoreapp3.1\01. Sum Matrix Elements.genruntimeconfig.cache
