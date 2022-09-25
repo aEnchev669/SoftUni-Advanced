@@ -1,0 +1,14 @@
+C:\Users\aench\OneDrive\Документи\GitHub\SoftUni-Advanced\Multidimensional Arrays\Exercise\05. Snake Moves\05. Snake Moves\bin\Debug\netcoreapp3.1\05. Snake Moves.exe
+C:\Users\aench\OneDrive\Документи\GitHub\SoftUni-Advanced\Multidimensional Arrays\Exercise\05. Snake Moves\05. Snake Moves\bin\Debug\netcoreapp3.1\05. Snake Moves.deps.json
+C:\Users\aench\OneDrive\Документи\GitHub\SoftUni-Advanced\Multidimensional Arrays\Exercise\05. Snake Moves\05. Snake Moves\bin\Debug\netcoreapp3.1\05. Snake Moves.runtimeconfig.json
+C:\Users\aench\OneDrive\Документи\GitHub\SoftUni-Advanced\Multidimensional Arrays\Exercise\05. Snake Moves\05. Snake Moves\bin\Debug\netcoreapp3.1\05. Snake Moves.runtimeconfig.dev.json
+C:\Users\aench\OneDrive\Документи\GitHub\SoftUni-Advanced\Multidimensional Arrays\Exercise\05. Snake Moves\05. Snake Moves\bin\Debug\netcoreapp3.1\05. Snake Moves.dll
+C:\Users\aench\OneDrive\Документи\GitHub\SoftUni-Advanced\Multidimensional Arrays\Exercise\05. Snake Moves\05. Snake Moves\bin\Debug\netcoreapp3.1\05. Snake Moves.pdb
+C:\Users\aench\OneDrive\Документи\GitHub\SoftUni-Advanced\Multidimensional Arrays\Exercise\05. Snake Moves\05. Snake Moves\obj\Debug\netcoreapp3.1\05. Snake Moves.csproj.AssemblyReference.cache
+C:\Users\aench\OneDrive\Документи\GitHub\SoftUni-Advanced\Multidimensional Arrays\Exercise\05. Snake Moves\05. Snake Moves\obj\Debug\netcoreapp3.1\05. Snake Moves.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aench\OneDrive\Документи\GitHub\SoftUni-Advanced\Multidimensional Arrays\Exercise\05. Snake Moves\05. Snake Moves\obj\Debug\netcoreapp3.1\05. Snake Moves.AssemblyInfoInputs.cache
+C:\Users\aench\OneDrive\Документи\GitHub\SoftUni-Advanced\Multidimensional Arrays\Exercise\05. Snake Moves\05. Snake Moves\obj\Debug\netcoreapp3.1\05. Snake Moves.AssemblyInfo.cs
+C:\Users\aench\OneDrive\Документи\GitHub\SoftUni-Advanced\Multidimensional Arrays\Exercise\05. Snake Moves\05. Snake Moves\obj\Debug\netcoreapp3.1\05. Snake Moves.csproj.CoreCompileInputs.cache
+C:\Users\aench\OneDrive\Документи\GitHub\SoftUni-Advanced\Multidimensional Arrays\Exercise\05. Snake Moves\05. Snake Moves\obj\Debug\netcoreapp3.1\05. Snake Moves.dll
+C:\Users\aench\OneDrive\Документи\GitHub\SoftUni-Advanced\Multidimensional Arrays\Exercise\05. Snake Moves\05. Snake Moves\obj\Debug\netcoreapp3.1\05. Snake Moves.pdb
+C:\Users\aench\OneDrive\Документи\GitHub\SoftUni-Advanced\Multidimensional Arrays\Exercise\05. Snake Moves\05. Snake Moves\obj\Debug\netcoreapp3.1\05. Snake Moves.genruntimeconfig.cache
