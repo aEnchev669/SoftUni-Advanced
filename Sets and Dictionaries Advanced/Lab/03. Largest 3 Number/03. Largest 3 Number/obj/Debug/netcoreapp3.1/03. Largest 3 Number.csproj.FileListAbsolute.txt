@@ -1,0 +1,14 @@
+C:\Users\aench\OneDrive\Документи\GitHub\SoftUni-Advanced\Sets and Dictionaries Advanced\Lab\03. Largest 3 Number\03. Largest 3 Number\bin\Debug\netcoreapp3.1\03. Largest 3 Number.exe
+C:\Users\aench\OneDrive\Документи\GitHub\SoftUni-Advanced\Sets and Dictionaries Advanced\Lab\03. Largest 3 Number\03. Largest 3 Number\bin\Debug\netcoreapp3.1\03. Largest 3 Number.deps.json
+C:\Users\aench\OneDrive\Документи\GitHub\SoftUni-Advanced\Sets and Dictionaries Advanced\Lab\03. Largest 3 Number\03. Largest 3 Number\bin\Debug\netcoreapp3.1\03. Largest 3 Number.runtimeconfig.json
+C:\Users\aench\OneDrive\Документи\GitHub\SoftUni-Advanced\Sets and Dictionaries Advanced\Lab\03. Largest 3 Number\03. Largest 3 Number\bin\Debug\netcoreapp3.1\03. Largest 3 Number.runtimeconfig.dev.json
+C:\Users\aench\OneDrive\Документи\GitHub\SoftUni-Advanced\Sets and Dictionaries Advanced\Lab\03. Largest 3 Number\03. Largest 3 Number\bin\Debug\netcoreapp3.1\03. Largest 3 Number.dll
+C:\Users\aench\OneDrive\Документи\GitHub\SoftUni-Advanced\Sets and Dictionaries Advanced\Lab\03. Largest 3 Number\03. Largest 3 Number\bin\Debug\netcoreapp3.1\03. Largest 3 Number.pdb
+C:\Users\aench\OneDrive\Документи\GitHub\SoftUni-Advanced\Sets and Dictionaries Advanced\Lab\03. Largest 3 Number\03. Largest 3 Number\obj\Debug\netcoreapp3.1\03. Largest 3 Number.csproj.AssemblyReference.cache
+C:\Users\aench\OneDrive\Документи\GitHub\SoftUni-Advanced\Sets and Dictionaries Advanced\Lab\03. Largest 3 Number\03. Largest 3 Number\obj\Debug\netcoreapp3.1\03. Largest 3 Number.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aench\OneDrive\Документи\GitHub\SoftUni-Advanced\Sets and Dictionaries Advanced\Lab\03. Largest 3 Number\03. Largest 3 Number\obj\Debug\netcoreapp3.1\03. Largest 3 Number.AssemblyInfoInputs.cache
+C:\Users\aench\OneDrive\Документи\GitHub\SoftUni-Advanced\Sets and Dictionaries Advanced\Lab\03. Largest 3 Number\03. Largest 3 Number\obj\Debug\netcoreapp3.1\03. Largest 3 Number.AssemblyInfo.cs
+C:\Users\aench\OneDrive\Документи\GitHub\SoftUni-Advanced\Sets and Dictionaries Advanced\Lab\03. Largest 3 Number\03. Largest 3 Number\obj\Debug\netcoreapp3.1\03. Largest 3 Number.csproj.CoreCompileInputs.cache
+C:\Users\aench\OneDrive\Документи\GitHub\SoftUni-Advanced\Sets and Dictionaries Advanced\Lab\03. Largest 3 Number\03. Largest 3 Number\obj\Debug\netcoreapp3.1\03. Largest 3 Number.dll
+C:\Users\aench\OneDrive\Документи\GitHub\SoftUni-Advanced\Sets and Dictionaries Advanced\Lab\03. Largest 3 Number\03. Largest 3 Number\obj\Debug\netcoreapp3.1\03. Largest 3 Number.pdb
+C:\Users\aench\OneDrive\Документи\GitHub\SoftUni-Advanced\Sets and Dictionaries Advanced\Lab\03. Largest 3 Number\03. Largest 3 Number\obj\Debug\netcoreapp3.1\03. Largest 3 Number.genruntimeconfig.cache

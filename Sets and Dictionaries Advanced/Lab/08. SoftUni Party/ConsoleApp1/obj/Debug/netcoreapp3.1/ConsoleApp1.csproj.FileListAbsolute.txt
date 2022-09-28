@@ -1,0 +1,14 @@
+C:\Users\aench\OneDrive\Документи\GitHub\SoftUni-Advanced\Sets and Dictionaries Advanced\Lab\08. SoftUni Party\ConsoleApp1\bin\Debug\netcoreapp3.1\ConsoleApp1.exe
+C:\Users\aench\OneDrive\Документи\GitHub\SoftUni-Advanced\Sets and Dictionaries Advanced\Lab\08. SoftUni Party\ConsoleApp1\bin\Debug\netcoreapp3.1\ConsoleApp1.deps.json
+C:\Users\aench\OneDrive\Документи\GitHub\SoftUni-Advanced\Sets and Dictionaries Advanced\Lab\08. SoftUni Party\ConsoleApp1\bin\Debug\netcoreapp3.1\ConsoleApp1.runtimeconfig.json
+C:\Users\aench\OneDrive\Документи\GitHub\SoftUni-Advanced\Sets and Dictionaries Advanced\Lab\08. SoftUni Party\ConsoleApp1\bin\Debug\netcoreapp3.1\ConsoleApp1.runtimeconfig.dev.json
+C:\Users\aench\OneDrive\Документи\GitHub\SoftUni-Advanced\Sets and Dictionaries Advanced\Lab\08. SoftUni Party\ConsoleApp1\bin\Debug\netcoreapp3.1\ConsoleApp1.dll
+C:\Users\aench\OneDrive\Документи\GitHub\SoftUni-Advanced\Sets and Dictionaries Advanced\Lab\08. SoftUni Party\ConsoleApp1\bin\Debug\netcoreapp3.1\ConsoleApp1.pdb
+C:\Users\aench\OneDrive\Документи\GitHub\SoftUni-Advanced\Sets and Dictionaries Advanced\Lab\08. SoftUni Party\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.csproj.AssemblyReference.cache
+C:\Users\aench\OneDrive\Документи\GitHub\SoftUni-Advanced\Sets and Dictionaries Advanced\Lab\08. SoftUni Party\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aench\OneDrive\Документи\GitHub\SoftUni-Advanced\Sets and Dictionaries Advanced\Lab\08. SoftUni Party\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.AssemblyInfoInputs.cache
+C:\Users\aench\OneDrive\Документи\GitHub\SoftUni-Advanced\Sets and Dictionaries Advanced\Lab\08. SoftUni Party\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.AssemblyInfo.cs
+C:\Users\aench\OneDrive\Документи\GitHub\SoftUni-Advanced\Sets and Dictionaries Advanced\Lab\08. SoftUni Party\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.csproj.CoreCompileInputs.cache
+C:\Users\aench\OneDrive\Документи\GitHub\SoftUni-Advanced\Sets and Dictionaries Advanced\Lab\08. SoftUni Party\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.dll
+C:\Users\aench\OneDrive\Документи\GitHub\SoftUni-Advanced\Sets and Dictionaries Advanced\Lab\08. SoftUni Party\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.pdb
+C:\Users\aench\OneDrive\Документи\GitHub\SoftUni-Advanced\Sets and Dictionaries Advanced\Lab\08. SoftUni Party\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.genruntimeconfig.cache

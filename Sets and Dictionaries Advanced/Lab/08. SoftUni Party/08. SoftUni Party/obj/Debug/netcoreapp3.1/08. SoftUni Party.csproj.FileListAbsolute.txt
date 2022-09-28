@@ -1,0 +1,14 @@
+C:\Users\aench\OneDrive\Документи\GitHub\SoftUni-Advanced\Sets and Dictionaries Advanced\Lab\08. SoftUni Party\08. SoftUni Party\bin\Debug\netcoreapp3.1\08. SoftUni Party.exe
+C:\Users\aench\OneDrive\Документи\GitHub\SoftUni-Advanced\Sets and Dictionaries Advanced\Lab\08. SoftUni Party\08. SoftUni Party\bin\Debug\netcoreapp3.1\08. SoftUni Party.deps.json
+C:\Users\aench\OneDrive\Документи\GitHub\SoftUni-Advanced\Sets and Dictionaries Advanced\Lab\08. SoftUni Party\08. SoftUni Party\bin\Debug\netcoreapp3.1\08. SoftUni Party.runtimeconfig.json
+C:\Users\aench\OneDrive\Документи\GitHub\SoftUni-Advanced\Sets and Dictionaries Advanced\Lab\08. SoftUni Party\08. SoftUni Party\bin\Debug\netcoreapp3.1\08. SoftUni Party.runtimeconfig.dev.json
+C:\Users\aench\OneDrive\Документи\GitHub\SoftUni-Advanced\Sets and Dictionaries Advanced\Lab\08. SoftUni Party\08. SoftUni Party\bin\Debug\netcoreapp3.1\08. SoftUni Party.dll
+C:\Users\aench\OneDrive\Документи\GitHub\SoftUni-Advanced\Sets and Dictionaries Advanced\Lab\08. SoftUni Party\08. SoftUni Party\bin\Debug\netcoreapp3.1\08. SoftUni Party.pdb
+C:\Users\aench\OneDrive\Документи\GitHub\SoftUni-Advanced\Sets and Dictionaries Advanced\Lab\08. SoftUni Party\08. SoftUni Party\obj\Debug\netcoreapp3.1\08. SoftUni Party.csproj.AssemblyReference.cache
+C:\Users\aench\OneDrive\Документи\GitHub\SoftUni-Advanced\Sets and Dictionaries Advanced\Lab\08. SoftUni Party\08. SoftUni Party\obj\Debug\netcoreapp3.1\08. SoftUni Party.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aench\OneDrive\Документи\GitHub\SoftUni-Advanced\Sets and Dictionaries Advanced\Lab\08. SoftUni Party\08. SoftUni Party\obj\Debug\netcoreapp3.1\08. SoftUni Party.AssemblyInfoInputs.cache
+C:\Users\aench\OneDrive\Документи\GitHub\SoftUni-Advanced\Sets and Dictionaries Advanced\Lab\08. SoftUni Party\08. SoftUni Party\obj\Debug\netcoreapp3.1\08. SoftUni Party.AssemblyInfo.cs
+C:\Users\aench\OneDrive\Документи\GitHub\SoftUni-Advanced\Sets and Dictionaries Advanced\Lab\08. SoftUni Party\08. SoftUni Party\obj\Debug\netcoreapp3.1\08. SoftUni Party.csproj.CoreCompileInputs.cache
+C:\Users\aench\OneDrive\Документи\GitHub\SoftUni-Advanced\Sets and Dictionaries Advanced\Lab\08. SoftUni Party\08. SoftUni Party\obj\Debug\netcoreapp3.1\08. SoftUni Party.dll
+C:\Users\aench\OneDrive\Документи\GitHub\SoftUni-Advanced\Sets and Dictionaries Advanced\Lab\08. SoftUni Party\08. SoftUni Party\obj\Debug\netcoreapp3.1\08. SoftUni Party.pdb
+C:\Users\aench\OneDrive\Документи\GitHub\SoftUni-Advanced\Sets and Dictionaries Advanced\Lab\08. SoftUni Party\08. SoftUni Party\obj\Debug\netcoreapp3.1\08. SoftUni Party.genruntimeconfig.cache

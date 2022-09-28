@@ -1,0 +1,6 @@
+C:\Users\aench\OneDrive\Документи\GitHub\SoftUni-Advanced\Sets and Dictionaries Advanced\Lab\06. Record Unique Name\06. Record Unique Name\bin\Debug\_06.Record_Unique_Name.exe
+C:\Users\aench\OneDrive\Документи\GitHub\SoftUni-Advanced\Sets and Dictionaries Advanced\Lab\06. Record Unique Name\06. Record Unique Name\bin\Debug\_06.Record_Unique_Name.pdb
+C:\Users\aench\OneDrive\Документи\GitHub\SoftUni-Advanced\Sets and Dictionaries Advanced\Lab\06. Record Unique Name\06. Record Unique Name\obj\Debug\06. Record Unique Name.csproj.AssemblyReference.cache
+C:\Users\aench\OneDrive\Документи\GitHub\SoftUni-Advanced\Sets and Dictionaries Advanced\Lab\06. Record Unique Name\06. Record Unique Name\obj\Debug\06. Record Unique Name.csproj.CoreCompileInputs.cache
+C:\Users\aench\OneDrive\Документи\GitHub\SoftUni-Advanced\Sets and Dictionaries Advanced\Lab\06. Record Unique Name\06. Record Unique Name\obj\Debug\_06.Record_Unique_Name.exe
+C:\Users\aench\OneDrive\Документи\GitHub\SoftUni-Advanced\Sets and Dictionaries Advanced\Lab\06. Record Unique Name\06. Record Unique Name\obj\Debug\_06.Record_Unique_Name.pdb
