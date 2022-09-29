@@ -1,0 +1,14 @@
+C:\Users\aench\OneDrive\Документи\GitHub\SoftUni-Advanced\Streams, Files and Directories\Reader and Writer\Reader and Writer\bin\Debug\netcoreapp3.1\Reader and Writer.exe
+C:\Users\aench\OneDrive\Документи\GitHub\SoftUni-Advanced\Streams, Files and Directories\Reader and Writer\Reader and Writer\bin\Debug\netcoreapp3.1\Reader and Writer.deps.json
+C:\Users\aench\OneDrive\Документи\GitHub\SoftUni-Advanced\Streams, Files and Directories\Reader and Writer\Reader and Writer\bin\Debug\netcoreapp3.1\Reader and Writer.runtimeconfig.json
+C:\Users\aench\OneDrive\Документи\GitHub\SoftUni-Advanced\Streams, Files and Directories\Reader and Writer\Reader and Writer\bin\Debug\netcoreapp3.1\Reader and Writer.runtimeconfig.dev.json
+C:\Users\aench\OneDrive\Документи\GitHub\SoftUni-Advanced\Streams, Files and Directories\Reader and Writer\Reader and Writer\bin\Debug\netcoreapp3.1\Reader and Writer.dll
+C:\Users\aench\OneDrive\Документи\GitHub\SoftUni-Advanced\Streams, Files and Directories\Reader and Writer\Reader and Writer\bin\Debug\netcoreapp3.1\Reader and Writer.pdb
+C:\Users\aench\OneDrive\Документи\GitHub\SoftUni-Advanced\Streams, Files and Directories\Reader and Writer\Reader and Writer\obj\Debug\netcoreapp3.1\Reader and Writer.csproj.AssemblyReference.cache
+C:\Users\aench\OneDrive\Документи\GitHub\SoftUni-Advanced\Streams, Files and Directories\Reader and Writer\Reader and Writer\obj\Debug\netcoreapp3.1\Reader and Writer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aench\OneDrive\Документи\GitHub\SoftUni-Advanced\Streams, Files and Directories\Reader and Writer\Reader and Writer\obj\Debug\netcoreapp3.1\Reader and Writer.AssemblyInfoInputs.cache
+C:\Users\aench\OneDrive\Документи\GitHub\SoftUni-Advanced\Streams, Files and Directories\Reader and Writer\Reader and Writer\obj\Debug\netcoreapp3.1\Reader and Writer.AssemblyInfo.cs
+C:\Users\aench\OneDrive\Документи\GitHub\SoftUni-Advanced\Streams, Files and Directories\Reader and Writer\Reader and Writer\obj\Debug\netcoreapp3.1\Reader and Writer.csproj.CoreCompileInputs.cache
+C:\Users\aench\OneDrive\Документи\GitHub\SoftUni-Advanced\Streams, Files and Directories\Reader and Writer\Reader and Writer\obj\Debug\netcoreapp3.1\Reader and Writer.dll
+C:\Users\aench\OneDrive\Документи\GitHub\SoftUni-Advanced\Streams, Files and Directories\Reader and Writer\Reader and Writer\obj\Debug\netcoreapp3.1\Reader and Writer.pdb
+C:\Users\aench\OneDrive\Документи\GitHub\SoftUni-Advanced\Streams, Files and Directories\Reader and Writer\Reader and Writer\obj\Debug\netcoreapp3.1\Reader and Writer.genruntimeconfig.cache

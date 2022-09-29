@@ -1,0 +1,14 @@
+C:\Users\aench\OneDrive\Документи\GitHub\SoftUni-Advanced\Streams, Files and Directories\Lab\File reader and writer\File reader and writer\bin\Debug\netcoreapp3.1\File reader and writer.exe
+C:\Users\aench\OneDrive\Документи\GitHub\SoftUni-Advanced\Streams, Files and Directories\Lab\File reader and writer\File reader and writer\bin\Debug\netcoreapp3.1\File reader and writer.deps.json
+C:\Users\aench\OneDrive\Документи\GitHub\SoftUni-Advanced\Streams, Files and Directories\Lab\File reader and writer\File reader and writer\bin\Debug\netcoreapp3.1\File reader and writer.runtimeconfig.json
+C:\Users\aench\OneDrive\Документи\GitHub\SoftUni-Advanced\Streams, Files and Directories\Lab\File reader and writer\File reader and writer\bin\Debug\netcoreapp3.1\File reader and writer.runtimeconfig.dev.json
+C:\Users\aench\OneDrive\Документи\GitHub\SoftUni-Advanced\Streams, Files and Directories\Lab\File reader and writer\File reader and writer\bin\Debug\netcoreapp3.1\File reader and writer.dll
+C:\Users\aench\OneDrive\Документи\GitHub\SoftUni-Advanced\Streams, Files and Directories\Lab\File reader and writer\File reader and writer\bin\Debug\netcoreapp3.1\File reader and writer.pdb
+C:\Users\aench\OneDrive\Документи\GitHub\SoftUni-Advanced\Streams, Files and Directories\Lab\File reader and writer\File reader and writer\obj\Debug\netcoreapp3.1\File reader and writer.csproj.AssemblyReference.cache
+C:\Users\aench\OneDrive\Документи\GitHub\SoftUni-Advanced\Streams, Files and Directories\Lab\File reader and writer\File reader and writer\obj\Debug\netcoreapp3.1\File reader and writer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aench\OneDrive\Документи\GitHub\SoftUni-Advanced\Streams, Files and Directories\Lab\File reader and writer\File reader and writer\obj\Debug\netcoreapp3.1\File reader and writer.AssemblyInfoInputs.cache
+C:\Users\aench\OneDrive\Документи\GitHub\SoftUni-Advanced\Streams, Files and Directories\Lab\File reader and writer\File reader and writer\obj\Debug\netcoreapp3.1\File reader and writer.AssemblyInfo.cs
+C:\Users\aench\OneDrive\Документи\GitHub\SoftUni-Advanced\Streams, Files and Directories\Lab\File reader and writer\File reader and writer\obj\Debug\netcoreapp3.1\File reader and writer.csproj.CoreCompileInputs.cache
+C:\Users\aench\OneDrive\Документи\GitHub\SoftUni-Advanced\Streams, Files and Directories\Lab\File reader and writer\File reader and writer\obj\Debug\netcoreapp3.1\File reader and writer.dll
+C:\Users\aench\OneDrive\Документи\GitHub\SoftUni-Advanced\Streams, Files and Directories\Lab\File reader and writer\File reader and writer\obj\Debug\netcoreapp3.1\File reader and writer.pdb
+C:\Users\aench\OneDrive\Документи\GitHub\SoftUni-Advanced\Streams, Files and Directories\Lab\File reader and writer\File reader and writer\obj\Debug\netcoreapp3.1\File reader and writer.genruntimeconfig.cache

@@ -8,7 +8,7 @@ namespace _08._SoftUni_Party
         static void Main(string[] args)
         {
             string input = Console.ReadLine();
-            SortedSet<string> party = new SortedSet<string>();    
+            List<string> party = new List<string>();
 
             while (input != "PARTY")
             {
@@ -34,9 +34,21 @@ namespace _08._SoftUni_Party
             Console.WriteLine(party.Count);
             if (party.Count > 0)
             {
-                foreach (var item in party)
+                for (int i = 0; i < party.Count; i++)
                 {
-                    Console.WriteLine(item);
+                    string partyMember = party[i];
+                    if (char.IsDigit(partyMember[i]))
+                    {
+                        Console.WriteLine(partyMember);
+                        party.Remove(partyMember);
+                    }
+                }
+                if (party.Count > 0)
+                {
+                    foreach (var member in party)
+                    {
+                        Console.WriteLine(member);
+                    }
                 }
             }
         }
