@@ -1,0 +1,14 @@
+C:\Users\aench\OneDrive\Документи\GitHub\SoftUni-Advanced\Functional Programming\Exercise\07. Predicate for Name\07. Predicate for Name\bin\Debug\netcoreapp3.1\07. Predicate for Name.exe
+C:\Users\aench\OneDrive\Документи\GitHub\SoftUni-Advanced\Functional Programming\Exercise\07. Predicate for Name\07. Predicate for Name\bin\Debug\netcoreapp3.1\07. Predicate for Name.deps.json
+C:\Users\aench\OneDrive\Документи\GitHub\SoftUni-Advanced\Functional Programming\Exercise\07. Predicate for Name\07. Predicate for Name\bin\Debug\netcoreapp3.1\07. Predicate for Name.runtimeconfig.json
+C:\Users\aench\OneDrive\Документи\GitHub\SoftUni-Advanced\Functional Programming\Exercise\07. Predicate for Name\07. Predicate for Name\bin\Debug\netcoreapp3.1\07. Predicate for Name.runtimeconfig.dev.json
+C:\Users\aench\OneDrive\Документи\GitHub\SoftUni-Advanced\Functional Programming\Exercise\07. Predicate for Name\07. Predicate for Name\bin\Debug\netcoreapp3.1\07. Predicate for Name.dll
+C:\Users\aench\OneDrive\Документи\GitHub\SoftUni-Advanced\Functional Programming\Exercise\07. Predicate for Name\07. Predicate for Name\bin\Debug\netcoreapp3.1\07. Predicate for Name.pdb
+C:\Users\aench\OneDrive\Документи\GitHub\SoftUni-Advanced\Functional Programming\Exercise\07. Predicate for Name\07. Predicate for Name\obj\Debug\netcoreapp3.1\07. Predicate for Name.csproj.AssemblyReference.cache
+C:\Users\aench\OneDrive\Документи\GitHub\SoftUni-Advanced\Functional Programming\Exercise\07. Predicate for Name\07. Predicate for Name\obj\Debug\netcoreapp3.1\07. Predicate for Name.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aench\OneDrive\Документи\GitHub\SoftUni-Advanced\Functional Programming\Exercise\07. Predicate for Name\07. Predicate for Name\obj\Debug\netcoreapp3.1\07. Predicate for Name.AssemblyInfoInputs.cache
+C:\Users\aench\OneDrive\Документи\GitHub\SoftUni-Advanced\Functional Programming\Exercise\07. Predicate for Name\07. Predicate for Name\obj\Debug\netcoreapp3.1\07. Predicate for Name.AssemblyInfo.cs
+C:\Users\aench\OneDrive\Документи\GitHub\SoftUni-Advanced\Functional Programming\Exercise\07. Predicate for Name\07. Predicate for Name\obj\Debug\netcoreapp3.1\07. Predicate for Name.csproj.CoreCompileInputs.cache
+C:\Users\aench\OneDrive\Документи\GitHub\SoftUni-Advanced\Functional Programming\Exercise\07. Predicate for Name\07. Predicate for Name\obj\Debug\netcoreapp3.1\07. Predicate for Name.dll
+C:\Users\aench\OneDrive\Документи\GitHub\SoftUni-Advanced\Functional Programming\Exercise\07. Predicate for Name\07. Predicate for Name\obj\Debug\netcoreapp3.1\07. Predicate for Name.pdb
+C:\Users\aench\OneDrive\Документи\GitHub\SoftUni-Advanced\Functional Programming\Exercise\07. Predicate for Name\07. Predicate for Name\obj\Debug\netcoreapp3.1\07. Predicate for Name.genruntimeconfig.cache

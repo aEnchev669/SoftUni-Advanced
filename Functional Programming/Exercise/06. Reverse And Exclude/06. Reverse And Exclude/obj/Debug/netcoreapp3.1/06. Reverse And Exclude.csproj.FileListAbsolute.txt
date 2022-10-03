@@ -1,0 +1,14 @@
+C:\Users\aench\OneDrive\Документи\GitHub\SoftUni-Advanced\Functional Programming\Exercise\06. Reverse And Exclude\06. Reverse And Exclude\bin\Debug\netcoreapp3.1\06. Reverse And Exclude.exe
+C:\Users\aench\OneDrive\Документи\GitHub\SoftUni-Advanced\Functional Programming\Exercise\06. Reverse And Exclude\06. Reverse And Exclude\bin\Debug\netcoreapp3.1\06. Reverse And Exclude.deps.json
+C:\Users\aench\OneDrive\Документи\GitHub\SoftUni-Advanced\Functional Programming\Exercise\06. Reverse And Exclude\06. Reverse And Exclude\bin\Debug\netcoreapp3.1\06. Reverse And Exclude.runtimeconfig.json
+C:\Users\aench\OneDrive\Документи\GitHub\SoftUni-Advanced\Functional Programming\Exercise\06. Reverse And Exclude\06. Reverse And Exclude\bin\Debug\netcoreapp3.1\06. Reverse And Exclude.runtimeconfig.dev.json
+C:\Users\aench\OneDrive\Документи\GitHub\SoftUni-Advanced\Functional Programming\Exercise\06. Reverse And Exclude\06. Reverse And Exclude\bin\Debug\netcoreapp3.1\06. Reverse And Exclude.dll
+C:\Users\aench\OneDrive\Документи\GitHub\SoftUni-Advanced\Functional Programming\Exercise\06. Reverse And Exclude\06. Reverse And Exclude\bin\Debug\netcoreapp3.1\06. Reverse And Exclude.pdb
+C:\Users\aench\OneDrive\Документи\GitHub\SoftUni-Advanced\Functional Programming\Exercise\06. Reverse And Exclude\06. Reverse And Exclude\obj\Debug\netcoreapp3.1\06. Reverse And Exclude.csproj.AssemblyReference.cache
+C:\Users\aench\OneDrive\Документи\GitHub\SoftUni-Advanced\Functional Programming\Exercise\06. Reverse And Exclude\06. Reverse And Exclude\obj\Debug\netcoreapp3.1\06. Reverse And Exclude.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aench\OneDrive\Документи\GitHub\SoftUni-Advanced\Functional Programming\Exercise\06. Reverse And Exclude\06. Reverse And Exclude\obj\Debug\netcoreapp3.1\06. Reverse And Exclude.AssemblyInfoInputs.cache
+C:\Users\aench\OneDrive\Документи\GitHub\SoftUni-Advanced\Functional Programming\Exercise\06. Reverse And Exclude\06. Reverse And Exclude\obj\Debug\netcoreapp3.1\06. Reverse And Exclude.AssemblyInfo.cs
+C:\Users\aench\OneDrive\Документи\GitHub\SoftUni-Advanced\Functional Programming\Exercise\06. Reverse And Exclude\06. Reverse And Exclude\obj\Debug\netcoreapp3.1\06. Reverse And Exclude.csproj.CoreCompileInputs.cache
+C:\Users\aench\OneDrive\Документи\GitHub\SoftUni-Advanced\Functional Programming\Exercise\06. Reverse And Exclude\06. Reverse And Exclude\obj\Debug\netcoreapp3.1\06. Reverse And Exclude.dll
+C:\Users\aench\OneDrive\Документи\GitHub\SoftUni-Advanced\Functional Programming\Exercise\06. Reverse And Exclude\06. Reverse And Exclude\obj\Debug\netcoreapp3.1\06. Reverse And Exclude.pdb
+C:\Users\aench\OneDrive\Документи\GitHub\SoftUni-Advanced\Functional Programming\Exercise\06. Reverse And Exclude\06. Reverse And Exclude\obj\Debug\netcoreapp3.1\06. Reverse And Exclude.genruntimeconfig.cache

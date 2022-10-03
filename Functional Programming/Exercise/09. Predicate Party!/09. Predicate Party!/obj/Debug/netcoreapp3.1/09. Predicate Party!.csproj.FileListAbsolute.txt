@@ -1,0 +1,14 @@
+C:\Users\aench\OneDrive\Документи\GitHub\SoftUni-Advanced\Functional Programming\Exercise\09. Predicate Party!\09. Predicate Party!\bin\Debug\netcoreapp3.1\09. Predicate Party!.exe
+C:\Users\aench\OneDrive\Документи\GitHub\SoftUni-Advanced\Functional Programming\Exercise\09. Predicate Party!\09. Predicate Party!\bin\Debug\netcoreapp3.1\09. Predicate Party!.deps.json
+C:\Users\aench\OneDrive\Документи\GitHub\SoftUni-Advanced\Functional Programming\Exercise\09. Predicate Party!\09. Predicate Party!\bin\Debug\netcoreapp3.1\09. Predicate Party!.runtimeconfig.json
+C:\Users\aench\OneDrive\Документи\GitHub\SoftUni-Advanced\Functional Programming\Exercise\09. Predicate Party!\09. Predicate Party!\bin\Debug\netcoreapp3.1\09. Predicate Party!.runtimeconfig.dev.json
+C:\Users\aench\OneDrive\Документи\GitHub\SoftUni-Advanced\Functional Programming\Exercise\09. Predicate Party!\09. Predicate Party!\bin\Debug\netcoreapp3.1\09. Predicate Party!.dll
+C:\Users\aench\OneDrive\Документи\GitHub\SoftUni-Advanced\Functional Programming\Exercise\09. Predicate Party!\09. Predicate Party!\bin\Debug\netcoreapp3.1\09. Predicate Party!.pdb
+C:\Users\aench\OneDrive\Документи\GitHub\SoftUni-Advanced\Functional Programming\Exercise\09. Predicate Party!\09. Predicate Party!\obj\Debug\netcoreapp3.1\09. Predicate Party!.csproj.AssemblyReference.cache
+C:\Users\aench\OneDrive\Документи\GitHub\SoftUni-Advanced\Functional Programming\Exercise\09. Predicate Party!\09. Predicate Party!\obj\Debug\netcoreapp3.1\09. Predicate Party!.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aench\OneDrive\Документи\GitHub\SoftUni-Advanced\Functional Programming\Exercise\09. Predicate Party!\09. Predicate Party!\obj\Debug\netcoreapp3.1\09. Predicate Party!.AssemblyInfoInputs.cache
+C:\Users\aench\OneDrive\Документи\GitHub\SoftUni-Advanced\Functional Programming\Exercise\09. Predicate Party!\09. Predicate Party!\obj\Debug\netcoreapp3.1\09. Predicate Party!.AssemblyInfo.cs
+C:\Users\aench\OneDrive\Документи\GitHub\SoftUni-Advanced\Functional Programming\Exercise\09. Predicate Party!\09. Predicate Party!\obj\Debug\netcoreapp3.1\09. Predicate Party!.csproj.CoreCompileInputs.cache
+C:\Users\aench\OneDrive\Документи\GitHub\SoftUni-Advanced\Functional Programming\Exercise\09. Predicate Party!\09. Predicate Party!\obj\Debug\netcoreapp3.1\09. Predicate Party!.dll
+C:\Users\aench\OneDrive\Документи\GitHub\SoftUni-Advanced\Functional Programming\Exercise\09. Predicate Party!\09. Predicate Party!\obj\Debug\netcoreapp3.1\09. Predicate Party!.pdb
+C:\Users\aench\OneDrive\Документи\GitHub\SoftUni-Advanced\Functional Programming\Exercise\09. Predicate Party!\09. Predicate Party!\obj\Debug\netcoreapp3.1\09. Predicate Party!.genruntimeconfig.cache

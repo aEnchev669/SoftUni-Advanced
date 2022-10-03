@@ -1,0 +1,14 @@
+C:\Users\aench\OneDrive\Документи\GitHub\SoftUni-Advanced\Functional Programming\Exercise\01. Action Print\01. Action Print\bin\Debug\netcoreapp3.1\01. Action Print.exe
+C:\Users\aench\OneDrive\Документи\GitHub\SoftUni-Advanced\Functional Programming\Exercise\01. Action Print\01. Action Print\bin\Debug\netcoreapp3.1\01. Action Print.deps.json
+C:\Users\aench\OneDrive\Документи\GitHub\SoftUni-Advanced\Functional Programming\Exercise\01. Action Print\01. Action Print\bin\Debug\netcoreapp3.1\01. Action Print.runtimeconfig.json
+C:\Users\aench\OneDrive\Документи\GitHub\SoftUni-Advanced\Functional Programming\Exercise\01. Action Print\01. Action Print\bin\Debug\netcoreapp3.1\01. Action Print.runtimeconfig.dev.json
+C:\Users\aench\OneDrive\Документи\GitHub\SoftUni-Advanced\Functional Programming\Exercise\01. Action Print\01. Action Print\bin\Debug\netcoreapp3.1\01. Action Print.dll
+C:\Users\aench\OneDrive\Документи\GitHub\SoftUni-Advanced\Functional Programming\Exercise\01. Action Print\01. Action Print\bin\Debug\netcoreapp3.1\01. Action Print.pdb
+C:\Users\aench\OneDrive\Документи\GitHub\SoftUni-Advanced\Functional Programming\Exercise\01. Action Print\01. Action Print\obj\Debug\netcoreapp3.1\01. Action Print.csproj.AssemblyReference.cache
+C:\Users\aench\OneDrive\Документи\GitHub\SoftUni-Advanced\Functional Programming\Exercise\01. Action Print\01. Action Print\obj\Debug\netcoreapp3.1\01. Action Print.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aench\OneDrive\Документи\GitHub\SoftUni-Advanced\Functional Programming\Exercise\01. Action Print\01. Action Print\obj\Debug\netcoreapp3.1\01. Action Print.AssemblyInfoInputs.cache
+C:\Users\aench\OneDrive\Документи\GitHub\SoftUni-Advanced\Functional Programming\Exercise\01. Action Print\01. Action Print\obj\Debug\netcoreapp3.1\01. Action Print.AssemblyInfo.cs
+C:\Users\aench\OneDrive\Документи\GitHub\SoftUni-Advanced\Functional Programming\Exercise\01. Action Print\01. Action Print\obj\Debug\netcoreapp3.1\01. Action Print.csproj.CoreCompileInputs.cache
+C:\Users\aench\OneDrive\Документи\GitHub\SoftUni-Advanced\Functional Programming\Exercise\01. Action Print\01. Action Print\obj\Debug\netcoreapp3.1\01. Action Print.dll
+C:\Users\aench\OneDrive\Документи\GitHub\SoftUni-Advanced\Functional Programming\Exercise\01. Action Print\01. Action Print\obj\Debug\netcoreapp3.1\01. Action Print.pdb
+C:\Users\aench\OneDrive\Документи\GitHub\SoftUni-Advanced\Functional Programming\Exercise\01. Action Print\01. Action Print\obj\Debug\netcoreapp3.1\01. Action Print.genruntimeconfig.cache
