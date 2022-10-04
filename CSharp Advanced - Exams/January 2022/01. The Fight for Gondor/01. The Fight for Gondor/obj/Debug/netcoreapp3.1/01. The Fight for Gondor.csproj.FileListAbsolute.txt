@@ -1,0 +1,14 @@
+C:\Users\aench\OneDrive\Документи\GitHub\SoftUni-Advanced\CSharp Advanced - Exams\January 2022\01. The Fight for Gondor\01. The Fight for Gondor\bin\Debug\netcoreapp3.1\01. The Fight for Gondor.exe
+C:\Users\aench\OneDrive\Документи\GitHub\SoftUni-Advanced\CSharp Advanced - Exams\January 2022\01. The Fight for Gondor\01. The Fight for Gondor\bin\Debug\netcoreapp3.1\01. The Fight for Gondor.deps.json
+C:\Users\aench\OneDrive\Документи\GitHub\SoftUni-Advanced\CSharp Advanced - Exams\January 2022\01. The Fight for Gondor\01. The Fight for Gondor\bin\Debug\netcoreapp3.1\01. The Fight for Gondor.runtimeconfig.json
+C:\Users\aench\OneDrive\Документи\GitHub\SoftUni-Advanced\CSharp Advanced - Exams\January 2022\01. The Fight for Gondor\01. The Fight for Gondor\bin\Debug\netcoreapp3.1\01. The Fight for Gondor.runtimeconfig.dev.json
+C:\Users\aench\OneDrive\Документи\GitHub\SoftUni-Advanced\CSharp Advanced - Exams\January 2022\01. The Fight for Gondor\01. The Fight for Gondor\bin\Debug\netcoreapp3.1\01. The Fight for Gondor.dll
+C:\Users\aench\OneDrive\Документи\GitHub\SoftUni-Advanced\CSharp Advanced - Exams\January 2022\01. The Fight for Gondor\01. The Fight for Gondor\bin\Debug\netcoreapp3.1\01. The Fight for Gondor.pdb
+C:\Users\aench\OneDrive\Документи\GitHub\SoftUni-Advanced\CSharp Advanced - Exams\January 2022\01. The Fight for Gondor\01. The Fight for Gondor\obj\Debug\netcoreapp3.1\01. The Fight for Gondor.csproj.AssemblyReference.cache
+C:\Users\aench\OneDrive\Документи\GitHub\SoftUni-Advanced\CSharp Advanced - Exams\January 2022\01. The Fight for Gondor\01. The Fight for Gondor\obj\Debug\netcoreapp3.1\01. The Fight for Gondor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aench\OneDrive\Документи\GitHub\SoftUni-Advanced\CSharp Advanced - Exams\January 2022\01. The Fight for Gondor\01. The Fight for Gondor\obj\Debug\netcoreapp3.1\01. The Fight for Gondor.AssemblyInfoInputs.cache
+C:\Users\aench\OneDrive\Документи\GitHub\SoftUni-Advanced\CSharp Advanced - Exams\January 2022\01. The Fight for Gondor\01. The Fight for Gondor\obj\Debug\netcoreapp3.1\01. The Fight for Gondor.AssemblyInfo.cs
+C:\Users\aench\OneDrive\Документи\GitHub\SoftUni-Advanced\CSharp Advanced - Exams\January 2022\01. The Fight for Gondor\01. The Fight for Gondor\obj\Debug\netcoreapp3.1\01. The Fight for Gondor.csproj.CoreCompileInputs.cache
+C:\Users\aench\OneDrive\Документи\GitHub\SoftUni-Advanced\CSharp Advanced - Exams\January 2022\01. The Fight for Gondor\01. The Fight for Gondor\obj\Debug\netcoreapp3.1\01. The Fight for Gondor.dll
+C:\Users\aench\OneDrive\Документи\GitHub\SoftUni-Advanced\CSharp Advanced - Exams\January 2022\01. The Fight for Gondor\01. The Fight for Gondor\obj\Debug\netcoreapp3.1\01. The Fight for Gondor.pdb
+C:\Users\aench\OneDrive\Документи\GitHub\SoftUni-Advanced\CSharp Advanced - Exams\January 2022\01. The Fight for Gondor\01. The Fight for Gondor\obj\Debug\netcoreapp3.1\01. The Fight for Gondor.genruntimeconfig.cache

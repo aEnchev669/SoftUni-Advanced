@@ -1,0 +1,14 @@
+C:\Users\aench\OneDrive\Документи\GitHub\SoftUni-Advanced\Defining Classes\Lab\DiceRoll\DiceRoll\bin\Debug\netcoreapp3.1\DiceRoll.exe
+C:\Users\aench\OneDrive\Документи\GitHub\SoftUni-Advanced\Defining Classes\Lab\DiceRoll\DiceRoll\bin\Debug\netcoreapp3.1\DiceRoll.deps.json
+C:\Users\aench\OneDrive\Документи\GitHub\SoftUni-Advanced\Defining Classes\Lab\DiceRoll\DiceRoll\bin\Debug\netcoreapp3.1\DiceRoll.runtimeconfig.json
+C:\Users\aench\OneDrive\Документи\GitHub\SoftUni-Advanced\Defining Classes\Lab\DiceRoll\DiceRoll\bin\Debug\netcoreapp3.1\DiceRoll.runtimeconfig.dev.json
+C:\Users\aench\OneDrive\Документи\GitHub\SoftUni-Advanced\Defining Classes\Lab\DiceRoll\DiceRoll\bin\Debug\netcoreapp3.1\DiceRoll.dll
+C:\Users\aench\OneDrive\Документи\GitHub\SoftUni-Advanced\Defining Classes\Lab\DiceRoll\DiceRoll\bin\Debug\netcoreapp3.1\DiceRoll.pdb
+C:\Users\aench\OneDrive\Документи\GitHub\SoftUni-Advanced\Defining Classes\Lab\DiceRoll\DiceRoll\obj\Debug\netcoreapp3.1\DiceRoll.csproj.AssemblyReference.cache
+C:\Users\aench\OneDrive\Документи\GitHub\SoftUni-Advanced\Defining Classes\Lab\DiceRoll\DiceRoll\obj\Debug\netcoreapp3.1\DiceRoll.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aench\OneDrive\Документи\GitHub\SoftUni-Advanced\Defining Classes\Lab\DiceRoll\DiceRoll\obj\Debug\netcoreapp3.1\DiceRoll.AssemblyInfoInputs.cache
+C:\Users\aench\OneDrive\Документи\GitHub\SoftUni-Advanced\Defining Classes\Lab\DiceRoll\DiceRoll\obj\Debug\netcoreapp3.1\DiceRoll.AssemblyInfo.cs
+C:\Users\aench\OneDrive\Документи\GitHub\SoftUni-Advanced\Defining Classes\Lab\DiceRoll\DiceRoll\obj\Debug\netcoreapp3.1\DiceRoll.csproj.CoreCompileInputs.cache
+C:\Users\aench\OneDrive\Документи\GitHub\SoftUni-Advanced\Defining Classes\Lab\DiceRoll\DiceRoll\obj\Debug\netcoreapp3.1\DiceRoll.dll
+C:\Users\aench\OneDrive\Документи\GitHub\SoftUni-Advanced\Defining Classes\Lab\DiceRoll\DiceRoll\obj\Debug\netcoreapp3.1\DiceRoll.pdb
+C:\Users\aench\OneDrive\Документи\GitHub\SoftUni-Advanced\Defining Classes\Lab\DiceRoll\DiceRoll\obj\Debug\netcoreapp3.1\DiceRoll.genruntimeconfig.cache
