@@ -1,0 +1,14 @@
+C:\Users\aench\OneDrive\Документи\GitHub\SoftUni-Advanced\CSharp Advanced - Exams\Loot box\Loot box\bin\Debug\netcoreapp3.1\Loot box.exe
+C:\Users\aench\OneDrive\Документи\GitHub\SoftUni-Advanced\CSharp Advanced - Exams\Loot box\Loot box\bin\Debug\netcoreapp3.1\Loot box.deps.json
+C:\Users\aench\OneDrive\Документи\GitHub\SoftUni-Advanced\CSharp Advanced - Exams\Loot box\Loot box\bin\Debug\netcoreapp3.1\Loot box.runtimeconfig.json
+C:\Users\aench\OneDrive\Документи\GitHub\SoftUni-Advanced\CSharp Advanced - Exams\Loot box\Loot box\bin\Debug\netcoreapp3.1\Loot box.runtimeconfig.dev.json
+C:\Users\aench\OneDrive\Документи\GitHub\SoftUni-Advanced\CSharp Advanced - Exams\Loot box\Loot box\bin\Debug\netcoreapp3.1\Loot box.dll
+C:\Users\aench\OneDrive\Документи\GitHub\SoftUni-Advanced\CSharp Advanced - Exams\Loot box\Loot box\bin\Debug\netcoreapp3.1\Loot box.pdb
+C:\Users\aench\OneDrive\Документи\GitHub\SoftUni-Advanced\CSharp Advanced - Exams\Loot box\Loot box\obj\Debug\netcoreapp3.1\Loot box.csproj.AssemblyReference.cache
+C:\Users\aench\OneDrive\Документи\GitHub\SoftUni-Advanced\CSharp Advanced - Exams\Loot box\Loot box\obj\Debug\netcoreapp3.1\Loot box.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aench\OneDrive\Документи\GitHub\SoftUni-Advanced\CSharp Advanced - Exams\Loot box\Loot box\obj\Debug\netcoreapp3.1\Loot box.AssemblyInfoInputs.cache
+C:\Users\aench\OneDrive\Документи\GitHub\SoftUni-Advanced\CSharp Advanced - Exams\Loot box\Loot box\obj\Debug\netcoreapp3.1\Loot box.AssemblyInfo.cs
+C:\Users\aench\OneDrive\Документи\GitHub\SoftUni-Advanced\CSharp Advanced - Exams\Loot box\Loot box\obj\Debug\netcoreapp3.1\Loot box.csproj.CoreCompileInputs.cache
+C:\Users\aench\OneDrive\Документи\GitHub\SoftUni-Advanced\CSharp Advanced - Exams\Loot box\Loot box\obj\Debug\netcoreapp3.1\Loot box.dll
+C:\Users\aench\OneDrive\Документи\GitHub\SoftUni-Advanced\CSharp Advanced - Exams\Loot box\Loot box\obj\Debug\netcoreapp3.1\Loot box.pdb
+C:\Users\aench\OneDrive\Документи\GitHub\SoftUni-Advanced\CSharp Advanced - Exams\Loot box\Loot box\obj\Debug\netcoreapp3.1\Loot box.genruntimeconfig.cache

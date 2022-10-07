@@ -24,22 +24,11 @@ namespace _01._The_Fight_for_Gondor
                     .Select(int.Parse));
                 if (i % 3 == 0)
                 {                                                   
-                    //platesOfDefense.Reverse();
                     int newPlate = int.Parse(Console.ReadLine());
-                    //platesOfDefense.Push(newPlate);
-                    //platesOfDefense.Reverse();
-                    List<int> plates = new List<int>();
-                    int countNew = platesOfDefense.Count;
-                    plates.Add(newPlate);
-                    for (int k = 0; k < countNew; k++)
-                    {
-                        plates.Add(platesOfDefense.Pop());
-                    }
-                    foreach (var item in plates)
-                    {
-                        platesOfDefense.Push(item);
-                    }
-                    
+                    var plateAsList = platesOfDefense.ToList();
+                    plateAsList.Add(newPlate);
+                    plateAsList.Reverse();
+                    platesOfDefense = new Stack<int>(plateAsList);
                 }
                 int count = orcsWarriors.Count;
                 for (int orcs = 0; orcs < count; orcs++)
