@@ -1,0 +1,14 @@
+C:\Users\aench\OneDrive\Документи\GitHub\SoftUni-Advanced\Defining Classes\Lab\exercise\exercise\bin\Debug\netcoreapp3.1\exercise.exe
+C:\Users\aench\OneDrive\Документи\GitHub\SoftUni-Advanced\Defining Classes\Lab\exercise\exercise\bin\Debug\netcoreapp3.1\exercise.deps.json
+C:\Users\aench\OneDrive\Документи\GitHub\SoftUni-Advanced\Defining Classes\Lab\exercise\exercise\bin\Debug\netcoreapp3.1\exercise.runtimeconfig.json
+C:\Users\aench\OneDrive\Документи\GitHub\SoftUni-Advanced\Defining Classes\Lab\exercise\exercise\bin\Debug\netcoreapp3.1\exercise.runtimeconfig.dev.json
+C:\Users\aench\OneDrive\Документи\GitHub\SoftUni-Advanced\Defining Classes\Lab\exercise\exercise\bin\Debug\netcoreapp3.1\exercise.dll
+C:\Users\aench\OneDrive\Документи\GitHub\SoftUni-Advanced\Defining Classes\Lab\exercise\exercise\bin\Debug\netcoreapp3.1\exercise.pdb
+C:\Users\aench\OneDrive\Документи\GitHub\SoftUni-Advanced\Defining Classes\Lab\exercise\exercise\obj\Debug\netcoreapp3.1\exercise.csproj.AssemblyReference.cache
+C:\Users\aench\OneDrive\Документи\GitHub\SoftUni-Advanced\Defining Classes\Lab\exercise\exercise\obj\Debug\netcoreapp3.1\exercise.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aench\OneDrive\Документи\GitHub\SoftUni-Advanced\Defining Classes\Lab\exercise\exercise\obj\Debug\netcoreapp3.1\exercise.AssemblyInfoInputs.cache
+C:\Users\aench\OneDrive\Документи\GitHub\SoftUni-Advanced\Defining Classes\Lab\exercise\exercise\obj\Debug\netcoreapp3.1\exercise.AssemblyInfo.cs
+C:\Users\aench\OneDrive\Документи\GitHub\SoftUni-Advanced\Defining Classes\Lab\exercise\exercise\obj\Debug\netcoreapp3.1\exercise.csproj.CoreCompileInputs.cache
+C:\Users\aench\OneDrive\Документи\GitHub\SoftUni-Advanced\Defining Classes\Lab\exercise\exercise\obj\Debug\netcoreapp3.1\exercise.dll
+C:\Users\aench\OneDrive\Документи\GitHub\SoftUni-Advanced\Defining Classes\Lab\exercise\exercise\obj\Debug\netcoreapp3.1\exercise.pdb
+C:\Users\aench\OneDrive\Документи\GitHub\SoftUni-Advanced\Defining Classes\Lab\exercise\exercise\obj\Debug\netcoreapp3.1\exercise.genruntimeconfig.cache

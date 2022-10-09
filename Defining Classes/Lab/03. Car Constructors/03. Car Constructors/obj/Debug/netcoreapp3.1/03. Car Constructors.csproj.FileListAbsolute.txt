@@ -1,0 +1,14 @@
+C:\Users\aench\OneDrive\Документи\GitHub\SoftUni-Advanced\Defining Classes\Lab\03. Car Constructors\03. Car Constructors\bin\Debug\netcoreapp3.1\03. Car Constructors.exe
+C:\Users\aench\OneDrive\Документи\GitHub\SoftUni-Advanced\Defining Classes\Lab\03. Car Constructors\03. Car Constructors\bin\Debug\netcoreapp3.1\03. Car Constructors.deps.json
+C:\Users\aench\OneDrive\Документи\GitHub\SoftUni-Advanced\Defining Classes\Lab\03. Car Constructors\03. Car Constructors\bin\Debug\netcoreapp3.1\03. Car Constructors.runtimeconfig.json
+C:\Users\aench\OneDrive\Документи\GitHub\SoftUni-Advanced\Defining Classes\Lab\03. Car Constructors\03. Car Constructors\bin\Debug\netcoreapp3.1\03. Car Constructors.runtimeconfig.dev.json
+C:\Users\aench\OneDrive\Документи\GitHub\SoftUni-Advanced\Defining Classes\Lab\03. Car Constructors\03. Car Constructors\bin\Debug\netcoreapp3.1\03. Car Constructors.dll
+C:\Users\aench\OneDrive\Документи\GitHub\SoftUni-Advanced\Defining Classes\Lab\03. Car Constructors\03. Car Constructors\bin\Debug\netcoreapp3.1\03. Car Constructors.pdb
+C:\Users\aench\OneDrive\Документи\GitHub\SoftUni-Advanced\Defining Classes\Lab\03. Car Constructors\03. Car Constructors\obj\Debug\netcoreapp3.1\03. Car Constructors.csproj.AssemblyReference.cache
+C:\Users\aench\OneDrive\Документи\GitHub\SoftUni-Advanced\Defining Classes\Lab\03. Car Constructors\03. Car Constructors\obj\Debug\netcoreapp3.1\03. Car Constructors.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aench\OneDrive\Документи\GitHub\SoftUni-Advanced\Defining Classes\Lab\03. Car Constructors\03. Car Constructors\obj\Debug\netcoreapp3.1\03. Car Constructors.AssemblyInfoInputs.cache
+C:\Users\aench\OneDrive\Документи\GitHub\SoftUni-Advanced\Defining Classes\Lab\03. Car Constructors\03. Car Constructors\obj\Debug\netcoreapp3.1\03. Car Constructors.AssemblyInfo.cs
+C:\Users\aench\OneDrive\Документи\GitHub\SoftUni-Advanced\Defining Classes\Lab\03. Car Constructors\03. Car Constructors\obj\Debug\netcoreapp3.1\03. Car Constructors.csproj.CoreCompileInputs.cache
+C:\Users\aench\OneDrive\Документи\GitHub\SoftUni-Advanced\Defining Classes\Lab\03. Car Constructors\03. Car Constructors\obj\Debug\netcoreapp3.1\03. Car Constructors.dll
+C:\Users\aench\OneDrive\Документи\GitHub\SoftUni-Advanced\Defining Classes\Lab\03. Car Constructors\03. Car Constructors\obj\Debug\netcoreapp3.1\03. Car Constructors.pdb
+C:\Users\aench\OneDrive\Документи\GitHub\SoftUni-Advanced\Defining Classes\Lab\03. Car Constructors\03. Car Constructors\obj\Debug\netcoreapp3.1\03. Car Constructors.genruntimeconfig.cache

@@ -54,15 +54,17 @@ namespace Car
 
         public string WhoAmI()
         {
-            string make = this.make;
-            string model = this.model;
-            string year = this.year.ToString();
-            string fuel = $"{this.fuelQuantity:F2}";
+            //string make = this.make;
+            //string model = this.model;
+            //string year = this.year.ToString();
+            //string fuel = $"{this.fuelQuantity:F2}";
 
-            return make + Environment.NewLine +
-                    model + Environment.NewLine +
-                    year + Environment.NewLine +
-                    fuel;
+            //return make + Environment.NewLine +
+            //        model + Environment.NewLine +
+            //        year + Environment.NewLine +
+            //        fuel;
+
+            return 
         }
     }
 }
