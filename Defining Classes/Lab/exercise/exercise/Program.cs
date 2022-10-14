@@ -16,7 +16,7 @@ namespace CarManufacturer
             //Car secondCar = new Car(make, model, year);
             //Car thirdCar = new Car(make, model, year, fuelQuantity, fuelConsumption);
 
-            var tires = new Tire[4]
+            Tire[] tires = new Tire[4]
             {
                 new Tire(1, 2.5),
                 new Tire(1, 2.1),
@@ -24,7 +24,7 @@ namespace CarManufacturer
                 new Tire(2, 2.3)
             };
 
-            var engine = new Engine(560, 6300);
+            Engine engine = new Engine(560, 6300);
 
             var car = new Car("Lamborghini", "Urus", 2010, 250, 9, engine, tires);
         }

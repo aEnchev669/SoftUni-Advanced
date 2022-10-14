@@ -19,6 +19,7 @@ namespace CarManufacturer
             Car car = new Car();
             Car secondCar = new Car(make, model, year);
             Car thirdCar = new Car(make, model, year, fuelQuantity, fuelConsumption);
+            Console.WriteLine(car);
              
         }
     }
