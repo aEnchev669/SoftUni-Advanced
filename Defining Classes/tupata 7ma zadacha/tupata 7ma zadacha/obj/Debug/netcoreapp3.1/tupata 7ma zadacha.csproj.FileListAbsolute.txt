@@ -1,0 +1,14 @@
+C:\Users\aench\OneDrive\Документи\GitHub\SoftUni-Advanced\Defining Classes\tupata 7ma zadacha\tupata 7ma zadacha\bin\Debug\netcoreapp3.1\tupata 7ma zadacha.exe
+C:\Users\aench\OneDrive\Документи\GitHub\SoftUni-Advanced\Defining Classes\tupata 7ma zadacha\tupata 7ma zadacha\bin\Debug\netcoreapp3.1\tupata 7ma zadacha.deps.json
+C:\Users\aench\OneDrive\Документи\GitHub\SoftUni-Advanced\Defining Classes\tupata 7ma zadacha\tupata 7ma zadacha\bin\Debug\netcoreapp3.1\tupata 7ma zadacha.runtimeconfig.json
+C:\Users\aench\OneDrive\Документи\GitHub\SoftUni-Advanced\Defining Classes\tupata 7ma zadacha\tupata 7ma zadacha\bin\Debug\netcoreapp3.1\tupata 7ma zadacha.runtimeconfig.dev.json
+C:\Users\aench\OneDrive\Документи\GitHub\SoftUni-Advanced\Defining Classes\tupata 7ma zadacha\tupata 7ma zadacha\bin\Debug\netcoreapp3.1\tupata 7ma zadacha.dll
+C:\Users\aench\OneDrive\Документи\GitHub\SoftUni-Advanced\Defining Classes\tupata 7ma zadacha\tupata 7ma zadacha\bin\Debug\netcoreapp3.1\tupata 7ma zadacha.pdb
+C:\Users\aench\OneDrive\Документи\GitHub\SoftUni-Advanced\Defining Classes\tupata 7ma zadacha\tupata 7ma zadacha\obj\Debug\netcoreapp3.1\tupata 7ma zadacha.csproj.AssemblyReference.cache
+C:\Users\aench\OneDrive\Документи\GitHub\SoftUni-Advanced\Defining Classes\tupata 7ma zadacha\tupata 7ma zadacha\obj\Debug\netcoreapp3.1\tupata 7ma zadacha.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aench\OneDrive\Документи\GitHub\SoftUni-Advanced\Defining Classes\tupata 7ma zadacha\tupata 7ma zadacha\obj\Debug\netcoreapp3.1\tupata 7ma zadacha.AssemblyInfoInputs.cache
+C:\Users\aench\OneDrive\Документи\GitHub\SoftUni-Advanced\Defining Classes\tupata 7ma zadacha\tupata 7ma zadacha\obj\Debug\netcoreapp3.1\tupata 7ma zadacha.AssemblyInfo.cs
+C:\Users\aench\OneDrive\Документи\GitHub\SoftUni-Advanced\Defining Classes\tupata 7ma zadacha\tupata 7ma zadacha\obj\Debug\netcoreapp3.1\tupata 7ma zadacha.csproj.CoreCompileInputs.cache
+C:\Users\aench\OneDrive\Документи\GitHub\SoftUni-Advanced\Defining Classes\tupata 7ma zadacha\tupata 7ma zadacha\obj\Debug\netcoreapp3.1\tupata 7ma zadacha.dll
+C:\Users\aench\OneDrive\Документи\GitHub\SoftUni-Advanced\Defining Classes\tupata 7ma zadacha\tupata 7ma zadacha\obj\Debug\netcoreapp3.1\tupata 7ma zadacha.pdb
+C:\Users\aench\OneDrive\Документи\GitHub\SoftUni-Advanced\Defining Classes\tupata 7ma zadacha\tupata 7ma zadacha\obj\Debug\netcoreapp3.1\tupata 7ma zadacha.genruntimeconfig.cache

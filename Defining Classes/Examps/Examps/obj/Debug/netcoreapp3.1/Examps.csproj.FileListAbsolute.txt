@@ -1,0 +1,14 @@
+C:\Users\aench\OneDrive\Документи\GitHub\SoftUni-Advanced\Defining Classes\Examps\Examps\bin\Debug\netcoreapp3.1\Examps.exe
+C:\Users\aench\OneDrive\Документи\GitHub\SoftUni-Advanced\Defining Classes\Examps\Examps\bin\Debug\netcoreapp3.1\Examps.deps.json
+C:\Users\aench\OneDrive\Документи\GitHub\SoftUni-Advanced\Defining Classes\Examps\Examps\bin\Debug\netcoreapp3.1\Examps.runtimeconfig.json
+C:\Users\aench\OneDrive\Документи\GitHub\SoftUni-Advanced\Defining Classes\Examps\Examps\bin\Debug\netcoreapp3.1\Examps.runtimeconfig.dev.json
+C:\Users\aench\OneDrive\Документи\GitHub\SoftUni-Advanced\Defining Classes\Examps\Examps\bin\Debug\netcoreapp3.1\Examps.dll
+C:\Users\aench\OneDrive\Документи\GitHub\SoftUni-Advanced\Defining Classes\Examps\Examps\bin\Debug\netcoreapp3.1\Examps.pdb
+C:\Users\aench\OneDrive\Документи\GitHub\SoftUni-Advanced\Defining Classes\Examps\Examps\obj\Debug\netcoreapp3.1\Examps.csproj.AssemblyReference.cache
+C:\Users\aench\OneDrive\Документи\GitHub\SoftUni-Advanced\Defining Classes\Examps\Examps\obj\Debug\netcoreapp3.1\Examps.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aench\OneDrive\Документи\GitHub\SoftUni-Advanced\Defining Classes\Examps\Examps\obj\Debug\netcoreapp3.1\Examps.AssemblyInfoInputs.cache
+C:\Users\aench\OneDrive\Документи\GitHub\SoftUni-Advanced\Defining Classes\Examps\Examps\obj\Debug\netcoreapp3.1\Examps.AssemblyInfo.cs
+C:\Users\aench\OneDrive\Документи\GitHub\SoftUni-Advanced\Defining Classes\Examps\Examps\obj\Debug\netcoreapp3.1\Examps.csproj.CoreCompileInputs.cache
+C:\Users\aench\OneDrive\Документи\GitHub\SoftUni-Advanced\Defining Classes\Examps\Examps\obj\Debug\netcoreapp3.1\Examps.dll
+C:\Users\aench\OneDrive\Документи\GitHub\SoftUni-Advanced\Defining Classes\Examps\Examps\obj\Debug\netcoreapp3.1\Examps.pdb
+C:\Users\aench\OneDrive\Документи\GitHub\SoftUni-Advanced\Defining Classes\Examps\Examps\obj\Debug\netcoreapp3.1\Examps.genruntimeconfig.cache

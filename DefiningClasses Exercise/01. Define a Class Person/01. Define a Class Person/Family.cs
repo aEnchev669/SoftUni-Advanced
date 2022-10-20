@@ -8,6 +8,7 @@ namespace DefiningClasses
     public class Family
     {
         private List<Person> people;
+        
         public Family()
         {
             this.people = new List<Person>(); 
