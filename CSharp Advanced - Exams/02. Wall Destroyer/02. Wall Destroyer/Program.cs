@@ -40,13 +40,14 @@ namespace _02._Wall_Destroyer
                         vankoRow--;
                         if (matrix[vankoRow,vankoCol] == 'R')
                         {
+                            Console.WriteLine("Vanko hit a rod!");
                             countOfRods++;
                             vankoRow++;
                         }
                         else if (matrix[vankoRow,vankoCol] == 'C')
                         {
                             matrix[vankoRow, vankoCol] = 'E';
-                            counter+=2;
+                            counter++;
                             getElectrocuted = true;
                             break;
                         }
@@ -68,13 +69,14 @@ namespace _02._Wall_Destroyer
                         vankoRow++;
                         if (matrix[vankoRow,vankoCol] == 'R')
                         {
+                            Console.WriteLine("Vanko hit a rod!");
                             countOfRods++;
                             vankoRow--;
                         }
                         else if (matrix[vankoRow,vankoCol] == 'C')
                         {
                             matrix[vankoRow, vankoCol] = 'E';
-                            counter+=2;
+                            counter++;
                             getElectrocuted = true;
                             break;
                         }
@@ -97,13 +99,14 @@ namespace _02._Wall_Destroyer
                         vankoCol--;
                         if (matrix[vankoRow,vankoCol] == 'R')
                         {
+                            Console.WriteLine("Vanko hit a rod!");
                             countOfRods++;
                             vankoCol++;
                         }
                         else if (matrix[vankoRow,vankoCol] == 'C')
                         {
                             matrix[vankoRow, vankoCol] = 'E';
-                            counter+=2;
+                            counter++;
                             getElectrocuted = true;
                             break;
                         }
@@ -125,13 +128,14 @@ namespace _02._Wall_Destroyer
                         vankoCol++;
                         if (matrix[vankoRow, vankoCol] == 'R')
                         {
+                            Console.WriteLine("Vanko hit a rod!");
                             countOfRods++;
                             vankoCol--;
                         }
                         else if (matrix[vankoRow,vankoCol] == 'C')
                         {
                             matrix[vankoRow, vankoCol] = 'E';
-                            counter+=2;
+                            counter++;
                             getElectrocuted = true;
                             break;
                         }
@@ -147,7 +151,7 @@ namespace _02._Wall_Destroyer
                 }
                 cmd = Console.ReadLine();
             }
-
+            counter++;
             if (getElectrocuted)
             {
                 Console.WriteLine($"Vanko got electrocuted, but he managed to make {counter} hole(s).");

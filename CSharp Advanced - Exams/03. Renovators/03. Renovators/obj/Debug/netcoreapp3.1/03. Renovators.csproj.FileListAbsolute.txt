@@ -1,0 +1,14 @@
+C:\Users\aench\OneDrive\Документи\GitHub\SoftUni-Advanced\CSharp Advanced - Exams\03. Renovators\03. Renovators\bin\Debug\netcoreapp3.1\03. Renovators.exe
+C:\Users\aench\OneDrive\Документи\GitHub\SoftUni-Advanced\CSharp Advanced - Exams\03. Renovators\03. Renovators\bin\Debug\netcoreapp3.1\03. Renovators.deps.json
+C:\Users\aench\OneDrive\Документи\GitHub\SoftUni-Advanced\CSharp Advanced - Exams\03. Renovators\03. Renovators\bin\Debug\netcoreapp3.1\03. Renovators.runtimeconfig.json
+C:\Users\aench\OneDrive\Документи\GitHub\SoftUni-Advanced\CSharp Advanced - Exams\03. Renovators\03. Renovators\bin\Debug\netcoreapp3.1\03. Renovators.runtimeconfig.dev.json
+C:\Users\aench\OneDrive\Документи\GitHub\SoftUni-Advanced\CSharp Advanced - Exams\03. Renovators\03. Renovators\bin\Debug\netcoreapp3.1\03. Renovators.dll
+C:\Users\aench\OneDrive\Документи\GitHub\SoftUni-Advanced\CSharp Advanced - Exams\03. Renovators\03. Renovators\bin\Debug\netcoreapp3.1\03. Renovators.pdb
+C:\Users\aench\OneDrive\Документи\GitHub\SoftUni-Advanced\CSharp Advanced - Exams\03. Renovators\03. Renovators\obj\Debug\netcoreapp3.1\03. Renovators.csproj.AssemblyReference.cache
+C:\Users\aench\OneDrive\Документи\GitHub\SoftUni-Advanced\CSharp Advanced - Exams\03. Renovators\03. Renovators\obj\Debug\netcoreapp3.1\03. Renovators.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aench\OneDrive\Документи\GitHub\SoftUni-Advanced\CSharp Advanced - Exams\03. Renovators\03. Renovators\obj\Debug\netcoreapp3.1\03. Renovators.AssemblyInfoInputs.cache
+C:\Users\aench\OneDrive\Документи\GitHub\SoftUni-Advanced\CSharp Advanced - Exams\03. Renovators\03. Renovators\obj\Debug\netcoreapp3.1\03. Renovators.AssemblyInfo.cs
+C:\Users\aench\OneDrive\Документи\GitHub\SoftUni-Advanced\CSharp Advanced - Exams\03. Renovators\03. Renovators\obj\Debug\netcoreapp3.1\03. Renovators.csproj.CoreCompileInputs.cache
+C:\Users\aench\OneDrive\Документи\GitHub\SoftUni-Advanced\CSharp Advanced - Exams\03. Renovators\03. Renovators\obj\Debug\netcoreapp3.1\03. Renovators.dll
+C:\Users\aench\OneDrive\Документи\GitHub\SoftUni-Advanced\CSharp Advanced - Exams\03. Renovators\03. Renovators\obj\Debug\netcoreapp3.1\03. Renovators.pdb
+C:\Users\aench\OneDrive\Документи\GitHub\SoftUni-Advanced\CSharp Advanced - Exams\03. Renovators\03. Renovators\obj\Debug\netcoreapp3.1\03. Renovators.genruntimeconfig.cache
