@@ -1,0 +1,14 @@
+C:\Users\aench\OneDrive\Документи\GitHub\SoftUni-Advanced\CSharp Advanced - Exams\22.10.2022 Exam C- Sharp Advance\03. Computer Architecture\obj\Debug\netcoreapp3.1\03. Computer Architecture.csproj.AssemblyReference.cache
+C:\Users\aench\OneDrive\Документи\GitHub\SoftUni-Advanced\CSharp Advanced - Exams\22.10.2022 Exam C- Sharp Advance\03. Computer Architecture\obj\Debug\netcoreapp3.1\03. Computer Architecture.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aench\OneDrive\Документи\GitHub\SoftUni-Advanced\CSharp Advanced - Exams\22.10.2022 Exam C- Sharp Advance\03. Computer Architecture\obj\Debug\netcoreapp3.1\03. Computer Architecture.AssemblyInfoInputs.cache
+C:\Users\aench\OneDrive\Документи\GitHub\SoftUni-Advanced\CSharp Advanced - Exams\22.10.2022 Exam C- Sharp Advance\03. Computer Architecture\obj\Debug\netcoreapp3.1\03. Computer Architecture.AssemblyInfo.cs
+C:\Users\aench\OneDrive\Документи\GitHub\SoftUni-Advanced\CSharp Advanced - Exams\22.10.2022 Exam C- Sharp Advance\03. Computer Architecture\obj\Debug\netcoreapp3.1\03. Computer Architecture.csproj.CoreCompileInputs.cache
+C:\Users\aench\OneDrive\Документи\GitHub\SoftUni-Advanced\CSharp Advanced - Exams\22.10.2022 Exam C- Sharp Advance\03. Computer Architecture\bin\Debug\netcoreapp3.1\03. Computer Architecture.exe
+C:\Users\aench\OneDrive\Документи\GitHub\SoftUni-Advanced\CSharp Advanced - Exams\22.10.2022 Exam C- Sharp Advance\03. Computer Architecture\bin\Debug\netcoreapp3.1\03. Computer Architecture.deps.json
+C:\Users\aench\OneDrive\Документи\GitHub\SoftUni-Advanced\CSharp Advanced - Exams\22.10.2022 Exam C- Sharp Advance\03. Computer Architecture\bin\Debug\netcoreapp3.1\03. Computer Architecture.runtimeconfig.json
+C:\Users\aench\OneDrive\Документи\GitHub\SoftUni-Advanced\CSharp Advanced - Exams\22.10.2022 Exam C- Sharp Advance\03. Computer Architecture\bin\Debug\netcoreapp3.1\03. Computer Architecture.runtimeconfig.dev.json
+C:\Users\aench\OneDrive\Документи\GitHub\SoftUni-Advanced\CSharp Advanced - Exams\22.10.2022 Exam C- Sharp Advance\03. Computer Architecture\bin\Debug\netcoreapp3.1\03. Computer Architecture.dll
+C:\Users\aench\OneDrive\Документи\GitHub\SoftUni-Advanced\CSharp Advanced - Exams\22.10.2022 Exam C- Sharp Advance\03. Computer Architecture\bin\Debug\netcoreapp3.1\03. Computer Architecture.pdb
+C:\Users\aench\OneDrive\Документи\GitHub\SoftUni-Advanced\CSharp Advanced - Exams\22.10.2022 Exam C- Sharp Advance\03. Computer Architecture\obj\Debug\netcoreapp3.1\03. Computer Architecture.dll
+C:\Users\aench\OneDrive\Документи\GitHub\SoftUni-Advanced\CSharp Advanced - Exams\22.10.2022 Exam C- Sharp Advance\03. Computer Architecture\obj\Debug\netcoreapp3.1\03. Computer Architecture.pdb
+C:\Users\aench\OneDrive\Документи\GitHub\SoftUni-Advanced\CSharp Advanced - Exams\22.10.2022 Exam C- Sharp Advance\03. Computer Architecture\obj\Debug\netcoreapp3.1\03. Computer Architecture.genruntimeconfig.cache
